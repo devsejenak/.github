@@ -7,4 +7,4 @@
 
 <h1 align="center">Dev Sejenak</h1>
 
-<p align="center"><em>Take a break, tinker a bit.</em></p>
+<p align="center">Take a break, tinker a bit.</p>
